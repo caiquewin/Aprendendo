@@ -22,5 +22,6 @@ namespace Exemplo_de_herança.Entities
                 Balance += amount;
             }
         }
+        // alterações
     }
 }
